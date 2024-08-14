@@ -1,0 +1,32 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    width: 100%; 
+    max-width: 500px;
+    border: 1px solid mediumblue;
+    margin: auto;
+}
+
+main {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: flex-start;
+    margin-top: .7rem;
+    align-items: center;
+    overflow-y: auto;
+}
+
+.toast {
+  font-size: .75rem;
+}
+
+.toast button {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
