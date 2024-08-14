@@ -2,6 +2,12 @@
 
 A functional to-do list app with advacned features including task reordering, double-click editing, and more intuitive functionality.
 
+<div align="center">
+
+<img src="./public/assets/to-do-list.gif" alt="App Demo">
+
+</div>
+
 ## Tech Stack
 
 - <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" alt="html5">
