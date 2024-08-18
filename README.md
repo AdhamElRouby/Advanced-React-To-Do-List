@@ -28,13 +28,13 @@ A functional to-do list app with advacned features including task reordering, do
 Clone the project
 
 ```bash
-  git clone https://github.com/AdhamElRouby/Weather-In-API-JS-App.git
+  git clone https://github.com/AdhamElRouby/Advanced-React-To-Do-List
 ```
 
 Go to the project directory
 
 ```bash
-  cd .\Weather-In-API-JS-App
+  cd .\Advanced-React-To-Do-List
 ```
 
 Open with VSCode
