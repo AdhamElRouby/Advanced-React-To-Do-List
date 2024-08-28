@@ -43,6 +43,12 @@ Open with VSCode
   code .
 ```
 
+Install dependencies
+
+```bash
+  npm install
+```
+
 Open with live server
 
 ```bash
