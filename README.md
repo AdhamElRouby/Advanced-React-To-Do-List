@@ -1,6 +1,6 @@
 # Advanced React To-Do List
 
-A functional to-do list app with advacned features including task reordering, double-click editing, and more intuitive functionality.
+A functional to-do list app with advanced features including task reordering, double-click editing, and more intuitive functionality.
 
 <div align="center">
 
