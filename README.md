@@ -28,7 +28,7 @@ A functional to-do list app with advacned features including task reordering, do
 Clone the project
 
 ```bash
-  git clone https://github.com/AdhamElRouby/Advanced-React-To-Do-List
+  git clone https://github.com/AdhamElRouby/Advanced-React-To-Do-List.git
 ```
 
 Go to the project directory
